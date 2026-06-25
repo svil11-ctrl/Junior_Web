@@ -11,6 +11,7 @@
 
 В Tilda: https://capedu-dz.tilda.ws/page150682233.html
 
+Скриншоты в desktop-версии
 
 <img width="1511" height="569" alt="Снимок экрана 2026-06-25 162145" src="https://github.com/user-attachments/assets/91fb8a86-4bbb-4d20-9e4f-6310064498ae" />
 <img width="1515" height="593" alt="Снимок экрана 2026-06-25 162205" src="https://github.com/user-attachments/assets/1938b8be-e761-46fe-a2d6-9d9abe59a7d0" />
@@ -19,3 +20,13 @@
 <img width="1894" height="731" alt="2026-06-25_16-24-22" src="https://github.com/user-attachments/assets/5c28f869-02f1-42f4-8eb9-46c65af5df45" />
 <img width="1869" height="734" alt="2026-06-25_16-24-46" src="https://github.com/user-attachments/assets/8f4fcdd7-eba7-47ae-9beb-111f7ca21503" />
 <img width="1920" height="925" alt="2026-06-25_16-25-15" src="https://github.com/user-attachments/assets/4ef2da27-f599-40ed-b2d2-f97fb9b47e33" />
+
+Скриншоты в mobile-версий
+
+<img width="290" height="641" alt="Снимок экрана 2026-06-25 161626" src="https://github.com/user-attachments/assets/edd96466-d0f3-48c7-bba3-c749b54d3f76" />
+<img width="286" height="604" alt="Снимок экрана 2026-06-25 161637" src="https://github.com/user-attachments/assets/400ef805-f7be-473a-b16a-9ec3f575ff02" />
+<img width="257" height="608" alt="Снимок экрана 2026-06-25 161702" src="https://github.com/user-attachments/assets/dea96465-41f8-48ec-bdd4-ec558ae67948" />
+<img width="284" height="623" alt="Снимок экрана 2026-06-25 161733" src="https://github.com/user-attachments/assets/e992ca43-bf7b-4507-b522-abea046b0e74" />
+<img width="255" height="694" alt="Снимок экрана 2026-06-25 161755" src="https://github.com/user-attachments/assets/4c923ae6-e653-4e1f-a6ca-51750829c307" />
+<img width="260" height="681" alt="Снимок экрана 2026-06-25 161809" src="https://github.com/user-attachments/assets/571d651f-5ad8-415a-84a0-420623cef501" />
+<img width="258" height="706" alt="Снимок экрана 2026-06-25 161822" src="https://github.com/user-attachments/assets/85878028-a5c0-4679-9cc1-ef2286e40509" />
